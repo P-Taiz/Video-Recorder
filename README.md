@@ -55,7 +55,7 @@ recordings/video_20250318_143015.mp4
 ---
 
 ## 📸 Screenshots
-!(screenshots/preview.png)
+| ![Screenshot](screenshots/preview.png) |
 
 ---
 
